@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Interactive Solar System</title>
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+		<style>
+			body {
+				background-color: #000000
+			}
+			.d3-tip {
+			  line-height: 1;
+			  font-weight: bold;
+			  padding: 12px;
+			  background: white;
+			  color: red;
+			  border-radius: 2px;
+				margin-top: 45px;
+			}
+
+			/* Creates a small triangle extender for the tooltip */
+			.d3-tip:after {
+			  box-sizing: border-box;
+			  display: inline;
+			  font-size: 10px;
+				font-family: sans-serif;
+			  width: 100%;
+			  line-height: 1;
+			  color: white;
+			  content: "\25BC";
+			  position: absolute;
+			  text-align: center;
+			}
+
+			.d3-tip.s:after {
+			  content: "\25B2";
+			  margin: 0 0 1px 0;
+			  top: -8px;
+			  left: 0;
+			  text-align: center;
+			}
+
+		</style>
+	</head>
+	<body>
+		<script type="text/javascript" src="planet_generator.js"></script>
+	</body>
+</html>

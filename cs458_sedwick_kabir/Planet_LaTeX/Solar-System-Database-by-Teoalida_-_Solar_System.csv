@@ -1,0 +1,115 @@
+
+Sun,,,,,,,,,,Equatorial Inclination to Orbit,Mean Radius,Equatorial Circumference,Volume,Mass,Density,Surface Area,Surface Gravity,Escape Velocity,Sidereal Rotation Period (Length of Day),Minimum/Maximum Surface Temperature,Effective Temperature,Atmospheric Constituents,Date of Discovery,Discovered By
+,Sun,,,,,,,,,,7.25 with respect to the ecliptic,"695,508 km","4,370,005.6 km","1,409,272,569,059,860,000 km3","1,989,100,000,000,000,000,000,000,000,000 kg",1.409 g/cm3,"6,078,747,774,547 km2",274.0 m/s2,"2,223,720 km/h","25.38 Earth days
+609.12 hours","5,500 °C",5504 °C,,Unknown,Known by the Ancients,
+
+Planets,,Orbit Size Around Sun (semi-major axis),Perihelion (closest),Aphelion (farthest),Sidereal Orbit Period (Length of Year),Orbit Circumference,Average Orbit Velocity,Orbit Eccentricity,Orbit Inclination,Equatorial Inclination to Orbit,Mean Radius,Equatorial Circumference,Volume,Mass,Density,Surface Area,Surface Gravity,Escape Velocity,Sidereal Rotation Period (Length of Day),Minimum/Maximum Surface Temperature,Effective Temperature,Atmospheric Constituents,Date of Discovery,Discovered By
+
+Mercury,,"57,909,227 km","46,001,009 km","69,817,445 km","0.2408467 Earth years
+87.97 Earth days","359,976,856 km","170,503 km/h",0.20563593,7.0 degrees,0 degrees,"2,439.7 km","15,329.1 km","60,827,208,742 km3","330,104,000,000,000,000,000,000 kg",5.427 g/cm3,"74,797,000 km2",3.7 m/s2,"15,300 km/h","58.646 Earth days
+1407.5 hours",-173/427 °C,,?,Unknown,Known by the Ancients
+
+Venus,,"108,209,475 km","107,476,170 km","108,942,780 km","0.61519726 Earth years
+224.70 Earth days","679,892,378 km","126,074 km/h",0.00677672,3.39 degrees,177.3 degrees (retrograde rotation),"6,051.8 km","38,024.6 km","928,415,345,893 km3","4,867,320,000,000,000,000,000,000 kg",5.243 g/cm3,"460,234,317 km2",8.87 m/s2,"37,296 km/h","-243.018 Earth days (retrograde) -5832.4 hours (retrograde)",462 °C,,"Carbon Dioxide, Nitrogen",Unknown,Known by the Ancients
+
+Earth,,"149,598,262 km","147,098,291 km","152,098,233 km","1.0000174 Earth years
+365.26 Earth days","939,887,974 km","107,218 km/h",0.01671123,0.00005 degrees,23.4393 degrees,"6,371.00 km","40,030.2 km","1,083,206,916,846 km3","5,972,190,000,000,000,000,000,000 kg",5.513 g/cm3,"510,064,472 km2",9.80665 m/s2,"40,284 km/h","0.99726968 Earth days 23.934 hours",-1.517241379,,"Nitrogen, Oxygen",Unknown,Known by the Ancients
+
+Mars,,"227,943,824 km","206,655,215 km","249,232,432 km","1.8808476 Earth years
+686.98 Earth days","1,429,085,052 km","86,677 km/h",0.0933941,1.85 degrees,25.2 degrees,"3,389.5 km","21,296.9 km","163,115,609,799 km3","641,693,000,000,000,000,000,000 kg",3.934 g/cm3,"144,371,391 km2",3.71 m/s2,"18,108 km/h","1.026 Earth days
+24.623 hours",-87 to -5 °C,,"Carbon Dioxide, Nitrogen, Argon",Unknown,Known by the Ancients
+
+Jupiter,,"778,340,821 km","740,679,835 km","816,001,807 km","11.862615 Earth years
+4,332.82 Earth days","4,887,595,931 km","47,002 km/h",0.04838624,1.304 degrees,3.1 degrees,"69,911 km","439,263.8 km","1,431,281,810,739,360 km3","1,898,130,000,000,000,000,000,000,000 kg",1.326 g/cm3,"61,418,738,571 km2",24.79 m/s2,"216,720 km/h","0.41354 Earth days 9.92496 hours",,-148 °C,"Hydrogen, Helium",Unknown,Known by the Ancients
+
+Saturn,,"1,426,666,422 km","1,349,823,615 km","1,503,509,229 km","29.447498 Earth years
+10,755.70 Earth days","8,957,504,604 km","34,701 km/h",0.05386179,2.49 degrees,26.7 degrees,"58,232 km","365,882.4 km","827,129,915,150,897 km3","568,319,000,000,000,000,000,000,000 k",0.687 g/cm3,"42,612,133,285 km2",10.4* m/s2,"129,924 km/h","0.444 Earth days 10.656 hours",,-178 °C,"Hydrogen, Helium",Unknown,Known by the Ancients
+
+Uranus,,"2,870,658,186 km","2,734,998,229 km","3,006,318,143 km","84.016846 Earth years
+30,687.15 Earth days","18,026,802,831 km","24,477 km/h",0.04725744,0.77 degrees,97.8 degrees (retrograde rotation),"25,362 km","159,354.1 km","68,334,355,695,584 km3","86,810,300,000,000,000,000,000,000 kg",1.270 g/cm3," 8,083,079,690 km2", 8.87 m/s2," 76,968 km/h","-0.718 Earth days (retrograde) -17.23992 hours (retrograde)",,-216 °C,"Hydrogen, Helium, Methane",13 Mar. 1781,William Herschel
+
+Neptune,,"4,498,396,441 km","4,459,753,056 km","4,537,039,826 km","164.79132 Earth years
+60190.03 Earth days","28,263,736,967 km","19,566 km/h",0.00859048, 1.77 degrees,28.3 degrees,"24,622 km","154,704.6 km"," 62,525,703,987,421 km3","102,410,000,000,000,000,000,000,000 kg",1.638 g/cm3,"7,618,272,763 km2",11.15 m/s2,"84,816 km/h","0.671 Earth days 16.11000 hours",,-214 °C,"Hydrogen, Helium, Methane",23 Sep. 1846,"Urbain Le Verrier, John Couch Adams, Johann Galle"
+
+Dwarf Planets,,Orbit Size Around Sun (semi-major axis),Perihelion (closest),Aphelion (farthest),Sidereal Orbit Period (Length of Year),Orbit Circumference,Average Orbit Velocity,Orbit Eccentricity,Orbit Inclination,Equatorial Inclination to Orbit,Mean Radius,Equatorial Circumference,Volume,Mass,Density,Surface Area,Surface Gravity,Escape Velocity,Sidereal Rotation Period (Length of Day),Minimum/Maximum Surface Temperature,Effective Temperature,Atmospheric Constituents,Date of Discovery,Discovered By
+
+Ceres,,"413,690,250 km","380,951,528 km","446,428,973 km",4.60 Earth years,"2,595,217,959 km"," 64,360 km/h",0.079138251,10.59 degrees,,476.2 km,"2,992.1 km","452,331,448 km3","947,000,000,000,000,000,000 kg",2.09 g/cm3,"2,849,631 km2",0.28 m/s2,"1,855 km/h","0.378 Earth days 9.07417 hours",,,,1 Jan. 1801,Giuseppe Piazzi
+
+Pluto,,"5,906,440,628 km","4,436,756,954 km","7,376,124,302 km","247.92065 Earth years
+90553.02 Earth days","36,529,978,039 km","16,809 km/h",0.2488273,17.14 degrees,122.5 degrees (retrograde rotation),"1,151 km","7,231.9 km","6,387,259,783 km3","13,090,000,000,000,000,000,000 kg",2.050 g/cm3,"16,647,940 km2",0.66 m/s2,"4,428 km/h","-6.387 Earth days (retrograde) -153.29280 hours (retrograde)",-233/-223 °C,,?,1930,Clyde Tombaugh
+
+Makemake,,"6,783,345,606 km","5,671,928,586 km","7,894,762,625 km",305.34 Earth years,"42,333,519,173 km","15,816 km/h",0.163844964,29 degrees,,,,,,,,,,"0.937 Earth days
+22.48000 hours",,,,31 Mar. 2005,"M. E. Brown, C. A. Trujillo, and D. L. Rabinowitz"
+
+Haumea,,"6,432,011,461 km","5,157,623,774 km","7,706,399,149 km",281.93 Earth years,"40,013,930,298 km","16,191 km/h",0.198132061,28.22 degrees,,,,,,,,,,"0.163 Earth days 3.91540 hours",,,,7 Mar. 2003,Sierra Nevada Observatory
+
+Eris,,"10,180,122,852 km","5,765,732,799 km","14,594,512,904 km",561.37 Earth years,"60,841,487,025 km","12,364 km/h",0.433628367,46.87 degrees,,,,,,,,,,"1.079 Earth days 25.90000 hours",,,,21 Oct. 2003,"M. E. Brown, C. A. Trujillo and D. Rabinowitz"
+
+Satellites,,Orbit Size Around Planet (semi-major axis),Periapsis (closest),Apoapsis (farthest),Sidereal Orbit Period (Length of Year),Orbit Circumference,Average Orbit Velocity,Average Orbit Velocity,Orbit Inclination,Equatorial Inclination to Orbit,Mean Radius,Equatorial Circumference,Volume,Mass,Density,Surface Area,Surface Gravity,Escape Velocity,Sidereal Rotation Period (Length of Day),Minimum/Maximum Surface Temperature,Effective Temperature,Atmospheric Constituents,Date of Discovery,Discovered By
+
+Earth,Moon,"384,400 km","363,104 km","405,696 km","0.074803559 Earth years
+27.322 Earth days","2,413,402.16 km","3,680.5 km/h",0.0554,5.16 degrees,6.68 degrees,1737.5 km,"10,917.0 km","21,971,669,064 km3","73,476,730,924,573,500,000,000 kg",3.344 g/cm3,"37,936,694.79 km2",1.624 m/s2,"8,552 km/h",27.322 Earth days,-233/123 °C,,,Unknown,Known by the Ancients
+
+Mars,Phobos,"9,376 km","9,234 km","9,518 km","0.000873101 Earth years
+0.3189 Earth days","58,907.79 km",7696.7 km/h,0.0151,1.075 degrees,,"11.1 km
+13.4 x 11.2 x 9.2 km, potato shape","69.7 km","5,729 km3","10,658,529,896,187,200 kg",1.872 g/cm3,"1,548.30 km2",0.0057 m/s2,41 km/h,"0.3189 Earth days 7.65 hours",,,,1877,A. Hall
+
+Mars,Deimos,"23,458 km","23,453 km"," 23,463 km","0.003456263 Earth years
+1.2624 Earth days","147,390.96 km","4,864.8 km/h",0.0002,1.788 degrees,,"6.2 km
+7.5 x 6.1 x 5.2 km, tri-axial shape", 39.0 km, 998 km3,"1,476,188,406,600,740 kg",1.471 g/cm3,483.05 km2,0.003 m/s2,20 km/h,"1.2624 Earth days 30.2976 hours",,,,1877,A. Hall
+
+Jupiter,Io,"421,800 km","420,071 km","423,529 km","0.004843258 Earth years
+1.769 Earth days","2,650,236.42 km","62,423.1 km/h",0.0041,0.036 degree,,"1821.6 km
+1830 x 1818.7 x 1815.3 km, tri-axial"," 11,445.5 km","25,319,064,907 km3","89,319,379,731,108,900,000,000 kg",3.528 g/cm3,"41,698,064.74 km2",1.796 m/s2,"8,552 km/h","1.769 Earth days 42.456 hours",,,Sulfur dioxide,1610,Galileo Galilei
+
+Jupiter,Europa,"671,100 km","664,792 km","677,408 km","0.019589322 Earth years
+7.15455296 Earth days","4,216,552.51 km","49,476.1 km/h",0.0094,0.466 degree,,"1,560.8 km",9806.8 km,"15,926,867,918 km3","47,998,438,387,492,700,000,000 kg",3.013 g/cm3,"30,612,893.23 km2",1.315 m/s2,"7,293 km/h",3.551 Earth days,,,Oxygen,1610,Galileo Galilei
+
+Jupiter,Ganymede,"1,070,400 km","1,069,008 km","1,071,792 km","0.019589322 Earth years
+7.15455296 Earth days","6,725,518.71 km","39,165.6 km/h",0.0013,0.177 degree,,"2,631.2 km"," 16,532.3 km","76,304,506,998 km3","148,185,846,875,052,000,000,000 kg",1.942 g/cm3,"86,999,665.93 km2",1.428 m/s2,"9,869 km/h",7.155 Earth days,,,,1610,Galileo Galilei
+
+Jupiter,Callisto,"1,882,700 km","1,868,768 km","1,896,632 km","0.04569473 Earth years
+16.6890184 Earth days","11,829,191.03 km","29,531.6 km/h",0.0074,0.192 degree,,"2,410.3 km","15,144.4 km","58,654,577,603 km3","107,593,737,963,819,000,000,000 kg",1.834 g/cm3,"73,004,909.27 km2", 1.236 m/s2,"8,787 km/h",16.6890184 Earth days,,,Carbon dioxide,1610,Galileo Galilei
+
+Saturn,Mimas,"185,539 km","181,902 km","189,176 km","0.00258 Earth years
+0.942 Earth days","1,165,663.95 km","51,559.8 km/h",0.0196,1.574,,198.20±0.25 km,"1,245.3 km","32,613,662 km3","37,505,676,206,690,400,000 kg",1.15 g/cm3,"493,647.75 km2",0.064 m/s2,0.158912805 km/h,,,,,17 Sep. 1789,William Herschel
+
+Saturn,Enceladus,"238,037 km","236,918 km","239,156 km","0.003750856 Earth years
+1.37 Earth days","1,495,622.32 km","45,487.3 km/h",0.0047,0.009 degrees,,252.1 km,"1,584.0 km","67,113,076 km3","107,944,591,230,692,000,000 kg",1.608 g/cm3,"798,648.27 km2",0.113 m/s2,861 km/h,Synchronous with Saturn,,,,1789,William Herschel
+
+Saturn,Tethys,"294,672 km","294,643 km","294,701 km","0.005169062 Earth years
+1.888 Earth days","1,851,478.78 km","40,860.7 km/h",0.0001,1.091 degrees,,"533.0 km
+535.6 x 528.2 x 525.8 km, tri-axial","3,348.9 km","634,264,255 km3","617,551,805,221,061,000,000 kg",0.973 g/cm3,"3,569,967.66 km2",0.145 m/s2,0.39321974 km/h,Synchronous with orbital period,,,,1684,G.D. Cassini
+
+Saturn,Dione,"377,415 km","376,585 km","378,245 km","0.007493498 Earth years
+2.737 Earth days","2,371,365.51 km","36,100.4 km/h",0.0022,0.028 degree,,561.7 km,"3,529.3 km","742,338,322 km3","1,095,745,430,185,280,000,000 kg", 1.476 g/cm3,"3,964,776.51 km2",0.232 m/s2,0.510228649 km/h,Synchronous with orbital period,,,,1684,G.D. Cassini
+
+Saturn,Rhea,"527,068 km","526,541 km","527,595 km","0.01236961 Earth years
+4.518 Earth days","3,311,665.09 km"," 30,541.4 km/h",0.001,0.333 degree,,764.3 km,"4,802.2 km","1,870,166,133 km3","2,307,089,151,289,080,000,000 kg",1.233 g/cm3,"7,340,701.82 km2",0.264 m/s2,"2,285 km/h",Synchronous with orbital period,,,,1672,G.D. Cassini
+
+Saturn,Titan,"1,221,865 km","1,186,675 km","1,257,055 km","0.04366872 Earth years
+15.95 Earth days","7,675,612.02 km","20,051.2 km/h",0.0288,0.312 degree,,"2,574.7 km","16,177.5 km","71,496,320,086 km3","134,552,523,083,241,000,000,000 kg",1.882 g/cm3,"83,305,418.53 km2",1.354 m/s2,"9,507 km/h",Synchronous with orbital period,94 K,,"N2, CH4",1655,C. Huygens
+
+Saturn,Iapetus,"3,560,851 km","3,456,518 km","3,665,184 km","0.217193703 Earth years
+79.33 Earth days","22,368,684.06 km","11,748.8 km/h",0.0293,8.313 degrees,,735.6 km,"4,621.9 km","1,667,300,080 km3","1,805,952,411,282,580,000,000 kg",1.083 g/cm3,"6,799,755.63 km2",0.223 m/s2,"2,061 km/h",Synchronous with orbital period,,,,1671,G.D. Cassini
+
+Uranus,Miranda,"129,900 km","129,731 km","130,069 km","0.00387 Earth years
+1.413 Earth days","816,185.43 km","24,067.7 km/h",0.0013,4.338,,235.8 ± 0.7 km,1481.6 km,"54,918,670 km3","65,941,411,056,276,500,000 kg",1.214 g/cm3,"698,710.82 km2",0.079 m/s2,695 km/h,,,,,16 Feb. 1948,Gerard P. Kuiper
+
+Uranus,Ariel,"190,900 km","190,671 km","191,129 km","0.006899384 Earth years
+2.52 Earth days"," 1,199,459.64 km","19,832.3 km/h",0.0012,0.041 degree,,578.9 km,"3,637.3 km","812,641,988 km3","1,294,849,526,195,970,000,000 kg",1.592 g/cm3,"4,211,307.59 km2",0.258 m/s2,"1,967 km/h",Synchronous with orbital period,,,,24 Oct. 1851,William Lassell
+
+Uranus,Umbriel,"266,000 km","264,963 km","267,037 km","0.011345654 Earth years
+4.144 Earth days","1,671,320.94 km","16,804.6 km/h",0.0039,0.128 degree,,584.7 km,"3,673.8 km","837,313,109 km3","1,221,414,772,974,210,000,000 kg",1.459 g/cm3,"4,296,116.52 km2",0.238 m/s2,"1,901 km/h",Synchronous with Uranus,,,,1851,W. Lassell
+
+Uranus,Titania,"436,300 km","435,820 km","436,780 km","0.023835729 Earth years
+8.706 Earth days","2,741,352.92 km","13,120.0 km/h",0.0011,0.079 degree,,788.9 km,"4,956.8 km","2,056,622,001 km3","3,419,961,364,327,790,000,000 kg",1.662 g/cm3,"7,820,846.75 km2",0.367 m/s2,"2,738 km/h",Synchronous with orbital period,,,,1787,W. Herschel
+
+Uranus,Oberon,"583,500 km","582,683 km","584,317 km","0.036851472 Earth years
+13.46 Earth days","3,666,236.83 km","11,349.2 km/h",0.0014,0.068 degree,,761.4 km,"4,784.0 km","1,848,958,769 km3","2,883,438,065,279,000,000,000 kg",1.559 g/cm3,"7,285,101.53 km2",0.332 m/s2,"2,559 km/h",Synchronous with orbital period,,,,1787,W. Herschel
+
+Neptune,Triton,"354,759 km","354,759 km","354,759 km","0.016090349 Earth years
+5.877 Earth days","2,229,016.54 km","15,803.2 km/h",0,156.865 degrees,,1353.4 km,"8,503.7 km","10,384,058,491 km3","21,394,990,550,895,500,000,000 kg",2.059 g/cm3,"23,017,714.99 km2",0.779 m/s2,"5,229 km/h",Synchronous with orbital period,,,,1846,W. Lassell
+
+Pluto,Charon,"17,536 km","17,497 km","17,575 km","0.017486653 Earth years
+6.387 Earth days","110,181.80 km",718.8 km/h,0.0022,0.001,,603.6 km,"3,792.5 km","921,162,612 km3","1,546,625,822,956,300,000,000 kg",1.678 g/cm3,"4,578,343.00 km2",0.283 m/s2,"2,105 km/h",6.387 hours,,,,22 Jun. 1978,James Christie
